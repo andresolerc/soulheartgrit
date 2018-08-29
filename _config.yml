@@ -26,4 +26,5 @@ theme: jekyll-theme-minimal
 
 permalink: /blog/:year/:month/:day/:title
 
-plugins: jekyll-sitemap
+plugins:
+  - jekyll-sitemap
