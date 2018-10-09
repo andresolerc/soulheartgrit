@@ -6,4 +6,5 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 # gem "github-pages"
 
-gem "minima", "~> 2.0"
+gem "jekyll-theme-minimal", "~> 0.0.4"
+gem 'github-pages'
