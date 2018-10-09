@@ -9,7 +9,7 @@
 title: Soul Heart Grit
 email: andrecab@hotmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Livi overseas for about six years and travelling around Oceania and Asia.
+  Living overseas for about six years and travelling around Oceania and Asia.
   I have been shaping the life I want, through fitness coaching in Australia
   for several years and recently, exploring Asia and its culture.
   Coaching people from different backgrounds adds such a great satisfaction.
@@ -17,7 +17,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.soulheartgrit.com" # the base hostname & protocol for your site
 twitter_username: andresolerc
-#github_username:  andresolerc
+github_username:  andresolerc
 instagram_username: soulheartgrit
 
 # Build settings
