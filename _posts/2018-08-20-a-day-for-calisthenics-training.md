@@ -7,7 +7,7 @@ date: 2018-08-20
 ![Elwood park](/assets/images/calisthenics1.jpg){:class="img-responsive"}
 
 Every city or town should have a least one public calisthenic park.
-These parks are usually not easy to find unless they are largely promoted by their locals but there is a good one found in the suburb of Elwood, #Melbourne, #Australia. 
+These parks are usually not easy to find unless they are largely promoted by their locals but there is a good one found in the suburb of Elwood, #Melbourne, #Australia.
 I will show you a quick demonstration of this park and what you can do here.
 
 This park has long straight bars at different heights, mixing with parallel bars and a vertical ladder.
@@ -23,7 +23,7 @@ On every exercise, the main focus is to perform them in a perfect form and to ac
 Some essential key points are hand placement on a straight bar for pull-ups and muscle-ups.
 Keep thumbs under the bar and all other fingers fully engaged, this way will help to engage forearms for a stronger grip.
 
-[See picture]
+![Workout](/assets/images/calisthenics2.jpg){:class="img-responsive"}
 
 Additionally, wrists should aim to be positioned at a 45-degree angle rather than being under the bar.
 Palms will wrap the bar completely avoiding leaving any gaps, as it will increase power transfer from body to bar for an explosive pull.
@@ -33,7 +33,7 @@ These exercises are just a few of hundred options to train for but still will gi
 
 This park is located in Bay Trail, Point Ormond, Elwood
 
-[See picture]
+![Elwood park](/assets/images/calisthenics3.jpg){:class="img-responsive"}
 
 Workout:
 
