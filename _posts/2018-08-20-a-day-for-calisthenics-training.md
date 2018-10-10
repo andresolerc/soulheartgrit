@@ -39,20 +39,24 @@ Workout:
 
 First set
 
-8, 6, 4, 2 x Parallel dips with L-sit holds
-10 x Straight bar pull-ups
-40sec x Alternating single leg squat jumps
+8, 6, 4, 2 x Parallel dips with L-sit holds <br>
+10 x Straight bar pull-ups <br>
+40sec x Alternating single leg squat jumps <br>
+
 Second set
 
-Max Straight bar dips
-15 x Toes to bar
-Max Chest to bar pull-ups
+Max Straight bar dips <br>  
+15 x Toes to bar <br>
+Max Chest to bar pull-ups <br>
+
 Third set
 
-12 x Pike pushups
-Max Muscle-ups
-10 x Front levers
+12 x Pike pushups <br>
+Max Muscle-ups <br>
+10 x Front levers <br>
+
 Last set
 
-Practice your favourite or weak exercise
+Practice your favourite or weak exercise <br>
+
 Cooldown
