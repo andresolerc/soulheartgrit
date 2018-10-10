@@ -4,7 +4,7 @@ title: "A Day for Calisthenics Training"
 date: 2018-08-20
 ---
 
-![Elwood park](/assets/media/calisthenics1.jpg){:class="img-responsive"}
+![Elwood park](/assets/images/calisthenics1.jpg){:class="img-responsive"}
 
 Every city or town should have a least one public calisthenic park.
 These parks are usually not easy to find unless they are largely promoted by their locals but there is a good one found in the suburb of Elwood, #Melbourne, #Australia. 
