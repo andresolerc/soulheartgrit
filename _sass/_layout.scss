@@ -104,7 +104,8 @@
 .jumbotron p {
   text-align: center;
   color: #ffffff;
-  vertical-align: middle;
+  position: relative;
+  top: 50%;
   transform: translateY(-50%);
 }
 .jumbotron h2 {
