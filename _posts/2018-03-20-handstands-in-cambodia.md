@@ -22,7 +22,7 @@ But how can we start walking forward on a handstand? -Getting out of inertia and
 
 Ideally, a perfect handstand walk should look like a straight solid pencil but this will come with time and practice. As a beginner, your heels can go forward allowing a reverse hollow to happen with your core fully engaged to prevent a lower back collapse and toes are required to be pointing out, complete this walk by chasing your heels.
 
-![handstand](/assets/images/cambodia3.jpg){:class="img-responsive"}
+![handstand](/assets/images/cambodia3.png){:class="img-responsive"}
 This is what I mean, Credit: Pixabay
 
 Handstand walks are usually not included in Crossfit regular WOD's "workout of the day", however, they are a must skill to reach RX level "as prescribed weights and reps". The Crossfit games 2018 will include a handstand obstacle course again for elite athletes. Still a fun movement, better we keep training anywhere possible on daily basis.
