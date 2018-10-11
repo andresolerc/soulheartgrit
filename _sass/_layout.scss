@@ -92,7 +92,16 @@
     }
 }
 
-
+/* BANNER SECTION */
+.jumbotron {
+  display: flex;
+  align-items: center;
+  background-image: url(/assets/images/banner.jpg);
+  background-size: cover;
+  background-position: center;
+  color: #000000;
+  height: 720px;
+}
 
 /**
  * Site footer
