@@ -99,9 +99,11 @@
   background-position: center;
   background-attachment: fixed;
   background-repeat: no-repeat;
+  display: flex;
+
 }
 
-.jumbotron p {
+.jumbotron p h2 {
   text-align: center;
   color: #ffffff;
 }
