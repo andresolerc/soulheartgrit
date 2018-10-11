@@ -97,12 +97,18 @@
   background-image: url('/assets/images/banner.jpg');
   background-size: cover;
   background-position: center;
-  height: 1080px;
+  height: 720px;
 }
 
 .jumbotron p {
   text-align: center;
   color: #ffffff;
+  vertical-align: middle;
+}
+.jumbotron h2 {
+  text-align: center;
+  color: #ffffff;
+  vertical-align: middle;
 }
 
 
