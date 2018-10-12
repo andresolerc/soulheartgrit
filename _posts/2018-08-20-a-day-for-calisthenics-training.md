@@ -33,7 +33,7 @@ These exercises are just a few of hundred options to train for but still will gi
 
 This park is located in Bay Trail, Point Ormond, Elwood
 
-![Elwood park](/assets/images/calisthenics3.jpg){:class="img-responsive"}
+<iframe width="854" height="480" src="https://www.youtube.com/embed/yPMOcwCVGFM?list=PLMRHL3JXqqghe8CvHiGrGw5PUsYcSBz2d" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Workout:
 
