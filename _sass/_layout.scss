@@ -99,22 +99,40 @@
   background-position: center;
   height: 720px;
   align-items: center;
+  display: flex;
+
+
 }
 
-.jumbotron p {
+.container-fluid h2 {
   text-align: center;
-  color:#ffffff;
-  position: relative;
-  top: 50%;
-  transform: translateY(-50%);
-}
-.jumbotron h2 {
-  text-align: center;
+  font-size: 45px;
   color: #ffffff;
+  transform: translate(15%, -50%);
+  /*border: 1px solid;*/
   position: relative;
-  top: 50%;
-  transform: translateY(-50%);
+
+  @include media-query($on-laptop) {
+      transform: translate(0);
+      font-size: 28px;
+  }
+
 }
+
+.container-fluid p {
+  text-align: center;
+  font-size: 20px;
+  color:#ffffff;
+  transform: translate(15%, -50%);
+  /*border: 1px solid;*/
+  position: relative;
+
+  @include media-query($on-laptop) {
+      transform: translate(0);
+      font-size: 16px;
+  }
+}
+
 
 
 /**
