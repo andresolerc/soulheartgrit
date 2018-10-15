@@ -8,4 +8,4 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 gem "jekyll-theme-minimal", "~> 0.0.4"
 gem 'github-pages'
-gem 'jekyll_analytics'
+gem 'jekyll-analytics'
