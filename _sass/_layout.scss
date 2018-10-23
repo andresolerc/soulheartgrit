@@ -96,11 +96,18 @@
 .jumbotron {
   background-image: url('/assets/images/banner.jpg');
   background-size: cover;
-  background-position: center;
-  height: 720px;
+  background-position: top;
+
   align-items: center;
   display: flex;
+  height: 720px;
+  margin: -30px -350px 30px -350px;
 
+  @include media-query($on-palm) {
+  border: 1px solid $grey-color-light;
+  background-position: left;
+  width: 740px;
+  }
 
 }
 
@@ -112,9 +119,13 @@
   /*border: 1px solid;*/
   position: relative;
 
-  @include media-query($on-laptop) {
-      transform: translate(0);
-      font-size: 28px;
+  @include media-query($on-palm) {
+      transform: translate(130%);
+      text-align: center;
+      font-size: 5vw;
+      max-width: 40%;
+      margin-left: 10px;
+      margin-right: 10px;
   }
 
 }
@@ -127,9 +138,14 @@
   /*border: 1px solid;*/
   position: relative;
 
-  @include media-query($on-laptop) {
-      transform: translate(0);
-      font-size: 16px;
+  @include media-query($on-palm) {
+      transform: translate(130%);
+      text-align: center;
+      font-size: 4vw;
+      max-width: 40%;
+      margin-left: 10px;
+      margin-right: 10px;
+
   }
 }
 
