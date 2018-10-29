@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Day for Calisthenics Training"
 date: 2018-08-20
+categories: blog exercise
 ---
 
 ![Elwood park](/assets/images/calisthenics1.jpg){:class="img-responsive"}

@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Handstands in Cambodia"
 date: 2018-03-20
+categories: blog exercise
 ---
 
 ![Angkor Wat](/assets/images/cambodia1.png){:class="img-responsive"}

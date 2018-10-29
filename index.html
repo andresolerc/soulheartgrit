@@ -1,35 +1,9 @@
 ---
-layout: default
-title: Home
+layout: home
+author_profile: false
+title: "Soul Heart Grit"
+header:
+  overlay_image: "/assets/images/banner.jpg"
+excerpt: 'Training for strength and power with conscious nutrition. Follow our programs, stories for learning skills and improving your best self.<br/><br/><br/><br/><br/><br/>.'
+
 ---
-
-<!-- BANNER SECTION -->
-
-<section class="jumbotron">
-      <div class="container-fluid text-center">
-        <h2>Training for strength and power with conscious nutrition</h2>
-        <p>Come and follow our training programs for learning skills and improving mobility with a balanced nutrition</p>
-      </div>
- </section>
-
-<div class="home">
-
-
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>

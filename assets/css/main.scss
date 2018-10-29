@@ -1,0 +1,13 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+$footer-background-color: #676868;
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+.page__hero--overlay { background-position: top; } // header image postions from the top
+.greedy-nav__toggle { background-color: #676868; } // toggle button is grey color now instead of red
