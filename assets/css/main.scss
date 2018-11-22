@@ -9,5 +9,5 @@ $footer-background-color: #676868;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.page__hero--overlay { background-position: top; } // header image postions from the top
+.page__hero--overlay { background-position: top; height: 650px;} // header image position from the top
 .greedy-nav__toggle { background-color: #676868; } // toggle button is grey color now instead of red
