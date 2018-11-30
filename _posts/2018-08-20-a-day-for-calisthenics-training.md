@@ -6,8 +6,8 @@ categories: blog exercise
 ---
 
 ![Elwood park](/assets/images/calisthenics1.jpg){:class="img-responsive"}
-
 Every city or town should have a least one public calisthenic park.
+
 These parks are usually not easy to find unless they are largely promoted by their locals but there is a good one found in the suburb of Elwood, #Melbourne, #Australia.
 I will show you a quick demonstration of this park and what you can do here.
 

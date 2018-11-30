@@ -4,6 +4,10 @@
 
 $footer-background-color: #676868;
 
+$primary-color: #676868; //button Colors
+$instagram-color: #7232bd; //instagram button color
+$link-color: #5197ad; //changes color of links
+
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin

@@ -40,7 +40,8 @@
   (facebook, $facebook-color),
   (twitter, $twitter-color),
   (google-plus, $google-plus-color),
-  (linkedin, $linkedin-color);
+  (linkedin, $linkedin-color),
+  (instagram, $instagram-color); /*added by myself for a new button color for Instagram*/
 
   @each $buttoncolor, $color in $buttoncolors {
     &--#{$buttoncolor} {
