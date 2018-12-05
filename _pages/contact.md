@@ -12,7 +12,7 @@ permalink: /contact/
 
 </div>
 
-<form action="https://formspree.io/{{site.email}}" method="POST">
+<form action="https://formspree.io/andrecab@hotmail.com" method="POST">
 
     <div class="form-group row">
 
