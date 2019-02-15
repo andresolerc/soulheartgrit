@@ -2,11 +2,12 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-$footer-background-color: #676868;
+$footer-background-color: #000000;
 
-$primary-color: hsla(210, 79%, 37%, 1); //button Colors
+//$primary-color: hsla(210, 79%, 37%, 1); //button Colors
+$primary-color: #FF6F61;
 $instagram-color: #7232bd; //instagram button color
-$link-color: hsla(210, 79%, 37%, 1); //changes color of links
+$link-color: #FF6F61; //changes color of links
 
 @charset "utf-8";
 
@@ -15,6 +16,6 @@ $link-color: hsla(210, 79%, 37%, 1); //changes color of links
 
 .page__hero--overlay { background-position: top; height: 650px;} // header image position from the top
 .greedy-nav__toggle { background-color: #676868; } // toggle button is grey color now instead of red
-.page__hero--overlay .btn{ color: hsl(0, 100%, 100%); background-color: hsla(210, 79%, 37%, 1);} //Modify color "Start your workout now"
+.page__hero--overlay .btn{ color: hsl(0, 100%, 100%); background-color: #FF6F61;} //Modify color "Start your workout now"
 
 .archive__item-title { color: #000; } //changes color of title in type of trainings
