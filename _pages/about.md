@@ -10,7 +10,7 @@ One of my favorites boxing clubs, located in Melbourne.
 Living overseas for about six years and traveling around Oceania, Asia, South America and Europe.
 
 I have been shaping the life I want, through fitness coaching in Australia
-for several years, exploring Asia, Colombia and now from Amsterdam.
+for several years, exploring Asia, Europe and America.
 
 Coaching people from different backgrounds adds such a great satisfaction.
 
