@@ -1,0 +1,36 @@
+I"&<div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong></strong></li>
+    
+
+    
+      
+        
+          <li><a href="https://instagram.com/soulheartgrit"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i>Instagram</a></li>
+        
+      
+        
+          <li><a href="https://facebook.com/soulheartgrit"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i>Facebook</a></li>
+        
+      
+        
+          <li><a href="https://twitter.com/andresolerc"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i>Twitter</a></li>
+        
+      
+        
+          <li><a href="https://github.com/andresolerc"><i class="fab fa-fw fa-github" aria-hidden="true"></i>GitHub</a></li>
+        
+      
+        
+      
+        
+      
+    
+
+    <!--     <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li> // I don't want to have this feed.xml at this stage  -->
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2019 Andres Soler. Website designed and built by <a href="https://codebirds.asia" rel="nofollow">Codebirds</a>. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+:ET
