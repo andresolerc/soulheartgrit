@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "en-US"
 title                    : "Soul Heart Grit"
 title_separator          : "-"
-name                     : "Andres Soler"
+name                     : ""
 description              : "Coaching fitness and healthy lifestyle with aesthetics."
 url                      : "https://www.soulheartgrit.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -78,11 +78,11 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "andresolerc"
+  username               :
 facebook:
   username               :
 github:
-  username               : "andresolerc"
+  username               :
 instagram:
   username               : "soulheartgrit"
   app_id                 :
@@ -95,8 +95,6 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
     - "https://instagram.com/soulheartgrit/"
-    - "https://twitter.com/andresolerc"
-    - "https://www.facebook.com/soulheartgrit"
 
 
 # Analytics
@@ -109,24 +107,24 @@ analytics:
 
 # Site Author
 author:
-  name             : "Andres Soler"
-  avatar           : "/assets/images/avatarandres.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             :
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Coaching overseas for about six years and traveling around Oceania, Asia, South America and Europe."
   location         : "Melbourne, Australia"
-  email            : "andrecab@hotmail.com"
+  email            :
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://soulheartgrit.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/andresolerc"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/soulheartgrit"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/andresolerc"
+    - label:
+      icon:
+      url:
+    - label:
+      icon:
+      url:
+    - label:
+      icon:
+      url:
+    - label:
+      icon:
+      url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/soulheartgrit"
@@ -137,15 +135,15 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/soulheartgrit"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/soulheartgrit"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/andresolerc"
+    - label:
+      icon:
+      url:
+    - label:
+      icon:
+      url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/andresolerc"
+      url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
