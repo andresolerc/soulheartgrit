@@ -11,7 +11,7 @@ header:
   caption:
 excerpt: '<br/>Dramatically improve your fitness while learning new skills which lead to more work done with higher output and intensity.<br/>'
 intro:
-  - excerpt: 'Get notified when I add new stuff &nbsp; [<i class="fab fa-instagram"></i> @soulheartgrit](https://instagram.com/soulheartgrit){: .btn .btn--inverse} [<i class="fab fa-paypal"></i> Tip Me](https://paypal.me/soulheartgrit){: .btn .btn--inverse}'
+  - excerpt: 'Get notified when I add new stuff &nbsp; [<i class="fab fa-instagram"></i> @soulheartgrit](https://instagram.com/soulheartgrit){: .btn .btn--inverse}'
 feature_row:
   - image_path: /assets/images/workout-feature-left.png
     alt: "workouts"
