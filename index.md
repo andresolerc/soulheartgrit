@@ -24,17 +24,12 @@ feature_row:
     alt: "skills"
     title: "Skills"
     excerpt: "Best practices and drills for mastering your new skill"
-    url: "/contact/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
   - image_path: /assets/images/workout-feature-right.png
     alt: "training"
     title: "Training"
     excerpt: "Training programs that will generate more strength and gains"
-    url: "/contact/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-
 ---
+{% include video id="DBwQLt0pu1A" provider="youtube" %}
+
 {% include feature_row id="intro" type="center" %}
 {% include feature_row %}

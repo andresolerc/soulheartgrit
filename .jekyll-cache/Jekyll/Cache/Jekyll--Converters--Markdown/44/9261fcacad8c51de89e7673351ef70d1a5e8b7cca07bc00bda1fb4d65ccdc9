@@ -1,0 +1,132 @@
+I"A
+
+<!-- Courtesy of embedresponsively.com //-->
+<div class="responsive-video-container">
+
+  <iframe src="https://www.youtube.com/embed/DBwQLt0pu1A" frameborder="0" allowfullscreen=""></iframe>
+
+</div>
+
+<div class="feature__wrapper">
+
+  
+
+    
+
+    <div class="feature__item--center">
+      <div class="archive__item">
+        
+
+        <div class="archive__item-body">
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Get notified when I add new stuff   <a href="https://instagram.com/soulheartgrit" class="btn btn--inverse"><i class="fab fa-instagram"></i> @soulheartgrit</a></p>
+
+            </div>
+          
+
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+<div class="feature__wrapper">
+
+  
+
+    
+
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/workout-feature-left.png" alt="workouts" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Workouts</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Functional workouts to improve your mobility and strength.</p>
+
+            </div>
+          
+
+          
+            <p><a href="/contact/" class="btn btn--primary">Learn more</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+    
+
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/workout-feature-center.png" alt="skills" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Skills</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Best practices and drills for mastering your new skill</p>
+
+            </div>
+          
+
+          
+        </div>
+      </div>
+    </div>
+  
+
+    
+
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/workout-feature-right.png" alt="training" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Training</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Training programs that will generate more strength and gains</p>
+
+            </div>
+          
+
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+:ET
