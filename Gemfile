@@ -15,8 +15,8 @@ source "https://rubygems.org"
 
 # To upgrade, run `bundle update`.
 
-gem "jekyll", "~> 4.0"
-gem "minimal-mistakes-jekyll"
+gem "jekyll", "~> 4.0", ">= 4.0.0"
+gem "minimal-mistakes-jekyll", ">= 4.16.6"
 gem 'jekyll-analytics'
 
 # The following plugins are automatically loaded by the theme-gem:
@@ -26,7 +26,7 @@ gem 'jekyll-analytics'
 #   gem "jekyll-feed"
 #   gem "jemoji"
 #   gem "jekyll-data"
-   gem "jekyll-include-cache"
+   gem "jekyll-include-cache", ">= 0.2.0"
 #
 # If you have any other plugins, put them here!
 group :jekyll_plugins do
